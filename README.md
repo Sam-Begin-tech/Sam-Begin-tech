@@ -17,7 +17,7 @@ I'm a passionate **AI Developer** with 2 years experience in full-stack web deve
 * **Tools:** FAISS, OpenAI, Gemini,Gemma, Git, Ollama, Hugginface, Postman
 * **Databases:** MySQL, SQLite
 
-### 🚀 Projects I'm proud of
+
 
 
 
